@@ -6,26 +6,24 @@ Made for ECS 175, a computer graphics class and included among the top student s
 
 Compile using 'make' with included make file
 
-Controls:
-w:          move forwards
-s:          move backwards
-a:          move left
-d:          move right
+Controls:  
+**w**:  move forwards  
+**s**:  move backwards  
+**a**:  move left  
+**d**:  move right      
+**r**:  move up  
+**f**:  move down
 
-r:          move up
-f:          move down
+**i**:  look up  
+**k**:  look down  
+**j**:  look left  
+**l**:  look right
 
-i:          look up
-k:          look down
-j:          look left
-l:          look right
+**1**:  Switch camera to panoramic spinning camera  
+**2**:  Pause or resume rotating the camera in spin mode  
+**3**:  Switch camera to follow a car
 
-
-1:          Switch camera to panoramic spinning camera
-2:          Pause or resume rotating the camera in spin mode
-3:          Switch camera to follow a car
-
-q: quit
+**q**:  quit
 
 
 
