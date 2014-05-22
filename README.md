@@ -7,8 +7,7 @@ Made for ECS 175, a computer graphics class and included among the top student s
 Compile using 'make' with included make file
 
 Controls:
-w:          move forwards
-
+w:          move forwards \n
 s:          move backwards
 a:          move left
 d:          move right
