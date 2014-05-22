@@ -10,7 +10,8 @@ Controls:
 **w**:  move forwards  
 **s**:  move backwards  
 **a**:  move left  
-**d**:  move right      
+**d**:  move right
+
 **r**:  move up  
 **f**:  move down
 
